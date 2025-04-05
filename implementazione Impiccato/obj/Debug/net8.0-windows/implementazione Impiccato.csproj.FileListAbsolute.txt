@@ -1,0 +1,17 @@
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\bin\Debug\net8.0-windows\implementazione Impiccato.exe
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\bin\Debug\net8.0-windows\implementazione Impiccato.deps.json
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\bin\Debug\net8.0-windows\implementazione Impiccato.runtimeconfig.json
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\bin\Debug\net8.0-windows\implementazione Impiccato.dll
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\bin\Debug\net8.0-windows\implementazione Impiccato.pdb
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione_Impiccato.bo.resources
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione_Impiccato.Properties.Resources.resources
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.csproj.GenerateResource.cache
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.AssemblyInfoInputs.cache
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.AssemblyInfo.cs
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.csproj.CoreCompileInputs.cache
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.dll
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\refint\implementazione Impiccato.dll
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.pdb
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\implementazione Impiccato.genruntimeconfig.cache
+C:\Users\pecorelli.davide\Desktop\implementazione Impiccato\implementazione Impiccato\obj\Debug\net8.0-windows\ref\implementazione Impiccato.dll
